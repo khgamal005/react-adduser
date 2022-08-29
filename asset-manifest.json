@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-adduser/static/css/main.033315d3.chunk.css",
+    "main.js": "/react-adduser/static/js/main.1ce92d73.chunk.js",
+    "main.js.map": "/react-adduser/static/js/main.1ce92d73.chunk.js.map",
+    "runtime-main.js": "/react-adduser/static/js/runtime-main.676388ef.js",
+    "runtime-main.js.map": "/react-adduser/static/js/runtime-main.676388ef.js.map",
+    "static/js/2.808cf39d.chunk.js": "/react-adduser/static/js/2.808cf39d.chunk.js",
+    "static/js/2.808cf39d.chunk.js.map": "/react-adduser/static/js/2.808cf39d.chunk.js.map",
+    "index.html": "/react-adduser/index.html",
+    "static/css/main.033315d3.chunk.css.map": "/react-adduser/static/css/main.033315d3.chunk.css.map",
+    "static/js/2.808cf39d.chunk.js.LICENSE.txt": "/react-adduser/static/js/2.808cf39d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.676388ef.js",
+    "static/js/2.808cf39d.chunk.js",
+    "static/css/main.033315d3.chunk.css",
+    "static/js/main.1ce92d73.chunk.js"
+  ]
+}
